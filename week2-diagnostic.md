@@ -9,11 +9,18 @@ to use Google, your notes, and your repositories during the diagnostic.
 When you are done, make a pull request on the main repo. You must make your
 pull request before the time announced by the instructor or you will not be graded.
 
-If you use code in your answers, use codefencing.
+If you are doing this as a self-guided/remote assignment, timing requirements do not apply. If you would like to simulate what we do in class, set a timer for 15 minutes and do the following:
+
+* Fork and clone this repository
+* Open week2-diagnostic.md in your text editor
+* Answer the questions to the best of your ability in your own words. Don't copy-paste.
+* Add, commit, and push your changes to your own copy of this repository on Github.
+* Make a pull request to the master repository.
+
+If you use code in your answers, use [codefencing](https://help.github.com/articles/creating-and-highlighting-code-blocks/).
 
 
 1. What is `git`?
-
 
 
 2. What is Github, and how does it differ from git?
@@ -44,3 +51,6 @@ If you use code in your answers, use codefencing.
 
 
 11. You have merged your `fancy-new-feature` branch into your `master` branch and made a pull request, but the team decides they don't want that feature. How do you roll back the code in your `master` branch to the point before you merged `fancy-new-feature`?
+
+
+12. What do `git status` and `git log` do?
